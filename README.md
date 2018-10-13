@@ -1,5 +1,5 @@
 # Disaster Resource Management 
-After a natural calamity, like floods or earthquakes, an efficient and dynamic allocation of resources is required for the people that are affected by the disaster. The first line of help during such events are NGOs. 
+After a natural calamity, like floods or earthquakes, an efficient and dynamic allocation of resources is required for the people that are affected by the disaster. The first line of help during such events are the NGOs. 
 ## Abstract
 We propose to create a solution which will help the NGOs and the government organizations:
 1. Get an estimate of the number of people stranded/affected by the disaster in a particular region
